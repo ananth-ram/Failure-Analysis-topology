@@ -59,8 +59,7 @@ Where features included:
 - Magnetic moment
 
 Classifier used:
-- Gradient boosted decision trees  
-  (:contentReference[oaicite:0]{index=0})
+- Gradient boosted decision trees
 
 ---
 
